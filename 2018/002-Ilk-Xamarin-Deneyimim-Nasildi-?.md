@@ -1,5 +1,7 @@
 # İlk Xamarin Deneyimim Nasıldı?
 
+22.03.2018
+
 Her zaman Mobile Developerlıkla uğraşmak istedim. Windows işletim sistemi kullanıyorum. 
 
 Windowsta da iOS geliştirmek imkansız (yani ben öyle sanıyordum). 
