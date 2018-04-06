@@ -1,4 +1,7 @@
 # React Native Yapisi
+
+20.03.2018
+
 React Native de ki sayfa yapıları html sayfa yapılarına benzer.
 
 İlk başta htmldeki `<head> </head>` blokları gibi import kısmı
